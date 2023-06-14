@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1f4ad9a562f4d9b8b1b5115b9133b06, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  Characters:
+  - {fileID: 11400000, guid: ef7bc28d0d6d40e4297b0bbf6f4ab77a, type: 2}
+  - {fileID: 11400000, guid: df9f0bfa73a4f524793c39268fa92f88, type: 2}
+  - {fileID: 11400000, guid: 78573bed11999ee42bd97d519adac85b, type: 2}
+  - {fileID: 11400000, guid: 0c5d118f9e82e1b4d99282ccfabfc321, type: 2}
+  Cards:
+  - {fileID: 11400000, guid: 0ad71dc58beb3b84e8be98d296974ae2, type: 2}
+  - {fileID: 11400000, guid: f0baa7ba41710364fb5deab787a5f994, type: 2}
+  - {fileID: 11400000, guid: bb421c8d3172a40469fca18cc4bef87e, type: 2}
+  - {fileID: 11400000, guid: 6d783fa501fcd58468c996aa594bdf2e, type: 2}
+  ManaProgression: 010000000200000003000000040000000500000006000000
+  DeathCard: {fileID: 11400000, guid: 282e047f47fb3a04d83d27c53433f603, type: 2}
+  AttackCard: {fileID: 11400000, guid: c6b09fb8739f0184192b4db0d432b445, type: 2}

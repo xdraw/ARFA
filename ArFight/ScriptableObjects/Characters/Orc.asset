@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fddaaf9ee32949edb0dc7c52f1274eec, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  Name: Orc
+  Prefab: {fileID: 648026097421640420, guid: 9f27ffd01c04b384ba10ed2c7254aeed, type: 3}
+  Target: {fileID: 2800000, guid: fed17f53635e7c84592d862cd99c49a1, type: 3}
+  Characteristics:
+    Params:
+    - Key: max_health
+      Value: 40
+    - Key: min_attack
+      Value: 7
+    - Key: max_attack
+      Value: 7
